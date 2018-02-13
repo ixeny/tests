@@ -6,7 +6,7 @@ import java.text.MessageFormat;
  * Created by rudy on 11/02/17.
  */
 public class BankAccount {
-    Money solde;
+    public Money solde;
 
     public void creerCompte() {
         solde = new Money();
